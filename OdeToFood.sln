@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OdeToFood", "OdeToFood\OdeToFood.csproj", "{974367FB-6646-4A3B-BFA8-0AF3EAA9F2B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{974367FB-6646-4A3B-BFA8-0AF3EAA9F2B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{974367FB-6646-4A3B-BFA8-0AF3EAA9F2B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{974367FB-6646-4A3B-BFA8-0AF3EAA9F2B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{974367FB-6646-4A3B-BFA8-0AF3EAA9F2B5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1F3E625C-C49E-472E-AA8E-2A03564FAB66}
+	EndGlobalSection
+EndGlobal
